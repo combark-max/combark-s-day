@@ -1,0 +1,17 @@
+{
+  "name": "하루조각",
+  "short_name": "하루조각",
+  "description": "휴대폰에서 가볍게 쓰는 개인 일기장",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f4ee",
+  "theme_color": "#176b64",
+  "icons": [
+    {
+      "src": "assets/app-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

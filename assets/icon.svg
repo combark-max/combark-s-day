@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="하루조각 아이콘">
-  <rect width="512" height="512" rx="112" fill="#176b64"/>
-  <path d="M156 128h200c22 0 40 18 40 40v216H156c-22 0-40-18-40-40V168c0-22 18-40 40-40Z" fill="#fffdfa"/>
-  <path d="M156 128h200c22 0 40 18 40 40v216H156c-22 0-40-18-40-40V168c0-22 18-40 40-40Z" fill="none" stroke="#0f4d48" stroke-width="16"/>
-  <path d="M176 210h160M176 260h120M176 310h146" stroke="#176b64" stroke-width="22" stroke-linecap="round"/>
-  <path d="M348 104v280" stroke="#d9b45f" stroke-width="18" stroke-linecap="round"/>
-</svg>
